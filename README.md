@@ -16,6 +16,6 @@ Video Stabilization Algorithm
 
 ## Notes
 This algorithm is based on KalmanFilter and GaussianFilter and contrived to run on embedded devices.
-The two task, Estimate and Compensate, are divided into 2 independent running threads to fulfill the requirement of promoting computing efficiency.
+The two task, Estimate and Compensate, are divided into 2 independent running threads to meet the requirement of promoting computing efficiency.
 
 
