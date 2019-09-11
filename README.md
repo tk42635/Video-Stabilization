@@ -1,4 +1,4 @@
-Video Stabilization Algorithm
+===Video Stabilization Algorithm
 
 ## Dependency
 
