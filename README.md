@@ -1,9 +1,9 @@
 # Video Stabilization Algorithm
 
-## Dependency
+## Dependencies
 
-- opencv-2 or opencv-3
-- openmp for multi-threads
+- OpenCV-2 or OpenCV-3
+- OpenMP for multi-threads
 
 ## Run
 
